@@ -1,0 +1,23 @@
+{
+  "name": "hello-ye",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "build":"node build.js",
+    "haha": "node haha.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "user"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "ye",
+  "license": "ISC"
+}
